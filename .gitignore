@@ -1,0 +1,7 @@
+node_modules
+.idea
+*.ibt
+*.csv
+*.iml
+package-lock.json
+.DS_Store

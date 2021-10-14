@@ -1,0 +1,16 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "Using IBT",
+  "main": "index.js",
+  "scripts": {
+    "csv": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Keenan",
+  "license": "ISC",
+  "dependencies": {
+    "ibt-telemetry": "^1.1.1",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
